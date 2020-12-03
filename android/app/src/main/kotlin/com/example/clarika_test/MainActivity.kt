@@ -1,4 +1,4 @@
-package com.example.clarika_test
+package com.puntoschon.clarika_test
 
 import io.flutter.embedding.android.FlutterActivity
 
